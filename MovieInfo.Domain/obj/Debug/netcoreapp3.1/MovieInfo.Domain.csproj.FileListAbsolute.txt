@@ -1,0 +1,9 @@
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.Domain\bin\Debug\netcoreapp3.1\MovieInfo.Domain.deps.json
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.Domain\bin\Debug\netcoreapp3.1\MovieInfo.Domain.dll
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.Domain\bin\Debug\netcoreapp3.1\MovieInfo.Domain.pdb
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.Domain\obj\Debug\netcoreapp3.1\MovieInfo.Domain.csprojAssemblyReference.cache
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.Domain\obj\Debug\netcoreapp3.1\MovieInfo.Domain.AssemblyInfoInputs.cache
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.Domain\obj\Debug\netcoreapp3.1\MovieInfo.Domain.AssemblyInfo.cs
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.Domain\obj\Debug\netcoreapp3.1\MovieInfo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.Domain\obj\Debug\netcoreapp3.1\MovieInfo.Domain.dll
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.Domain\obj\Debug\netcoreapp3.1\MovieInfo.Domain.pdb

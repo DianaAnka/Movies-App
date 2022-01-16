@@ -1,0 +1,15 @@
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\bin\Debug\netcoreapp3.1\MovieInfo.EntityFramework.deps.json
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\bin\Debug\netcoreapp3.1\MovieInfo.EntityFramework.dll
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\obj\Debug\netcoreapp3.1\MovieInfo.EntityFramework.csprojAssemblyReference.cache
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\obj\Debug\netcoreapp3.1\MovieInfo.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\obj\Debug\netcoreapp3.1\MovieInfo.EntityFramework.AssemblyInfo.cs
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\bin\Debug\netcoreapp3.1\MovieInfo.EntityFramework.runtimeconfig.json
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\bin\Debug\netcoreapp3.1\MovieInfo.EntityFramework.runtimeconfig.dev.json
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\bin\Debug\netcoreapp3.1\MovieInfo.EntityFramework.pdb
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\bin\Debug\netcoreapp3.1\MovieInfo.Domain.dll
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\bin\Debug\netcoreapp3.1\MovieInfo.Domain.pdb
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\obj\Debug\netcoreapp3.1\MovieInfo.EntityFramework.csproj.CopyComplete
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\obj\Debug\netcoreapp3.1\MovieInfo.EntityFramework.dll
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\obj\Debug\netcoreapp3.1\MovieInfo.EntityFramework.pdb
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\obj\Debug\netcoreapp3.1\MovieInfo.EntityFramework.genruntimeconfig.cache
+C:\Users\tarek\source\repos\MovieInfoApp\MovieInfo.EntityFramework\obj\Debug\netcoreapp3.1\MovieInfo.EntityFramework.csproj.CoreCompileInputs.cache
